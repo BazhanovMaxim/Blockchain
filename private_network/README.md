@@ -75,7 +75,8 @@ miner.stop(1);
 eth.getBalance(eth.accounts[0]);
 ```
 
-##Вход в учётную запись
+## Вход в учётную запись
+
 ```
 geth --datadit .\mychaindata\ --nodiscover --unlock 0 --mine 1
 ```
