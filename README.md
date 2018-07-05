@@ -2,7 +2,7 @@
 
 <hr>
 
-** Объём ** 
+## Объём 
 * Как работать с Etheruem Blockchain
 * Web3
 * Работа с Remix
@@ -12,7 +12,7 @@
 
 <hr>
 
-** Инструкция по установке **
+## Инструкция по установке 
 * Geth 
 Geth - реализация протокола Ethereum. 
 Загрузить geth можно с сайта [geth.ethereum.org]<https://geth.ethereum.org/downloads/>
