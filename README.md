@@ -1,8 +1,8 @@
 # Materials for DApp Development with Solidity
 
 <hr>
-//
-### Объём 
+
+** Объём ** 
 	* Как работать с Etheruem Blockchain
 	* Web3
 	* Работа с Remix
@@ -10,8 +10,9 @@
 	* Развёртывание своё дец. приложение
 	* Работа с Truffle и WebPack
 
-/**/
-### Инструкция по установке
+<hr>
+
+** Инструкция по установке **
 	* Geth 
 	Geth - реализация протокола Ethereum. 
 	Загрузить geth можно с сайта [geth.ethereum.org]<https://geth.ethereum.org/downloads/>
