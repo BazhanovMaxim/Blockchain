@@ -43,34 +43,34 @@
 geth init .\genesis.json --datadit mychaindata
 ```
 
-Запуск Geth с этим каталогом цепочек
+* Запуск Geth с этим каталогом цепочек
 ```
 geth --datadit .\mychaindata\
 ```
 
-Для просмотра уже запущенного `geth`
+* Для просмотра уже запущенного `geth`
 ```
 geth attach \\.\\pipe\geth.ipc
 ```
 
-Просмотр аккаунтов
+* Просмотр аккаунтов
 ```
 eth.accounts
 ```
 
-Создание аккаунта
+* Создание аккаунта
 ```
 eth.newAccount()
 ```
 
-Майнинг
+* Майнинг
 ```
 miner.setEtherbase(eth.account[0]);
 miner.start(1);
 miner.stop(1);
 ```
 
-Кол-во Ethereum
+* Кол-во Ethereum
 ```
 eth.getBalance(eth.accounts[0]);
 ```
