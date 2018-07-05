@@ -10,7 +10,6 @@
 	* Развёртывание своё дец. приложение
 	* Работа с Truffle и WebPack
 
-<hr>
 
 ## Инструкция по установке
 	* Geth 
@@ -19,6 +18,6 @@
 	* Truffle
 	Для начала установить NodeJS [NodeJS]<https://nodejs.org/en/>
 	Дальше в терминале/PowerShell установить Truffle:
-	'''
+	```
 	npm install -g truffle
-	'''
+	```
