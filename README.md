@@ -18,6 +18,7 @@ Geth - реализация протокола Ethereum.
 Загрузить geth можно с сайта [geth.ethereum.org]<https://geth.ethereum.org/downloads/>
 * Truffle
 Для начала установить NodeJS [NodeJS]<https://nodejs.org/en/>
+
 Дальше в терминале/PowerShell установить Truffle:
 ```
 npm install -g truffle
