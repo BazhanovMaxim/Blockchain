@@ -3,7 +3,7 @@
 <hr>
 
 ## Объём 
-* Как работать с Etheruem Blockchain
+* Как работать с Ethereum Blockchain
 * Web3
 * Работа с Remix
 * Работа с MetaMask
