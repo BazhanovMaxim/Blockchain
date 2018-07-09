@@ -17,6 +17,8 @@
 
 Geth - реализация протокола Ethereum. 
 Загрузить Geth можно с сайта [geth.ethereum.org](https://geth.ethereum.org/downloads/)
+[Management APIs](https://github.com/ethereum/go-ethereum/wiki/Management-APIs)
+
 * Truffle
 
 Для начала установить [https://nodejs.org/en/](https://nodejs.org/en/)
