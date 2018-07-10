@@ -40,8 +40,8 @@ npm install -g truffle
 
 * MetaMask
 
-MetaMask - связь между браузером и блочной цепью [MetaMask](https://metamask.io/)
+MetaMask - связь между браузером и блочной цепью https://metamask.io/
 
 * Remix
 
-Remivx - The Solidity IDE в облаке. (https://remix.ethereum.org/)
+Remivx - The Solidity IDE в облаке https://remix.ethereum.org/
