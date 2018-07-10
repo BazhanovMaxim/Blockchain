@@ -45,7 +45,7 @@ MetaMask - связь между браузером и блочной цепью
 
 * Remix
 
-Remix - The Solidity IDE в облаке https://remix.ethereum.org/
+Remix - это среда IDE Ethereum в облаке с отладчиком и имитированная среда Blockchain https://remix.ethereum.org/
 
 * Web3.js
 
