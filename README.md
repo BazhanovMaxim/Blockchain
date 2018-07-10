@@ -31,6 +31,7 @@ Geth - реализация протокола Ethereum.
 
 * Truffle
 
+Truffle - Развитием смарт-контрактов
 Для начала установить [https://nodejs.org/en/](https://nodejs.org/en/)
 
 Дальше в терминале/PowerShell установить Truffle:
@@ -44,4 +45,8 @@ MetaMask - связь между браузером и блочной цепью
 
 * Remix
 
-Remivx - The Solidity IDE в облаке https://remix.ethereum.org/
+Remix - The Solidity IDE в облаке https://remix.ethereum.org/
+
+* Web3.js
+
+Библиотека, помогающая взаимодействия блокчейна с браузром. Предназначена для взаимодействия с JavaScript HTTP RPC. Если использовать локальный блок-код, он откроет HTTP RPC, в котором браузер может взаимодействовать с этой записью, а затем может отправить сделки с блочной цепи
