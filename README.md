@@ -48,6 +48,8 @@ Webpack работает, объединяя все требования JavaScr
 
 MetaMask - связь между браузером и блочной цепью https://metamask.io/
 
+Для тестовой сети (Rinkeby)[https://www.rinkeby.io/#faucet]
+
 * Remix
 
 Remix - это среда IDE Ethereum в облаке с отладчиком и имитированная среда Blockchain https://remix.ethereum.org/
