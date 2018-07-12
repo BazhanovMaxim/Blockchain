@@ -23,4 +23,4 @@ Ethereum
 
 ## Использование
 
-Код из Sublime text переносим в *Remix* и запускаем в тестовой сети, предварительно указав во вкладке *Run* все данные.
+Код из Sublime text переносим в *Remix* и запускаем в тестовой сети, предварительно указав во вкладке *Run* все данные (Environment > Injected web3, your testnetwork account) 
