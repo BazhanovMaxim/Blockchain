@@ -40,12 +40,12 @@
 Для начала нам нужно инициализировать в новую директорую с файлом `genesis.json`
 
 ```
-geth init .\genesis.json --datadit mychaindata
+geth init .\genesis.json --datadir mychaindata
 ```
 
 * Запуск Geth с этим каталогом цепочек
 ```
-geth --datadit .\mychaindata\
+geth --datadir .\mychaindata\
 ```
 
 * Для просмотра уже запущенного `geth`
@@ -78,5 +78,5 @@ eth.getBalance(eth.accounts[0]);
 ## Вход в учётную запись
 
 ```
-geth --datadit .\mychaindata\ --nodiscover --unlock 0 --mine 1
+geth --datadir .\mychaindata\ --nodiscover --unlock 0 --mine 1
 ```
