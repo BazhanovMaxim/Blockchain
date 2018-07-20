@@ -50,7 +50,7 @@ geth --datadir .\mychaindata\
 
 * Для просмотра уже запущенного `geth`
 ```
-geth attach \\.\\pipe\geth.ipc
+geth attach \\.\pipe\geth.ipc
 ```
 
 * Просмотр аккаунтов
