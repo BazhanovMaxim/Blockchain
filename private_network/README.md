@@ -60,7 +60,7 @@ eth.accounts
 
 * Создание аккаунта
 ```
-eth.newAccount()
+personal.newAccount()
 ```
 
 * Майнинг
