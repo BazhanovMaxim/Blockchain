@@ -65,7 +65,7 @@ personal.newAccount()
 
 * Майнинг
 ```
-miner.setEtherbase(eth.account[0]);
+miner.setEtherbase(eth.accounts[0]);
 miner.start(1);
 miner.stop(1);
 ```
