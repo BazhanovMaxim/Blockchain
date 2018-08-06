@@ -34,13 +34,13 @@
 
 <hr>
 
-## Хранение для Windows публичная сеть:
+# Хранение для Windows публичная сеть:
 
 ```
  %AppData%/Roaming/Ethereum
 ```
 
-## Хранение для Windows в частной сети происходит там, где создан `genesis.json`
+# Хранение для Windows в частной сети происходит там, где создан `genesis.json`
 
 ## Geth commands for start private network and another
 
