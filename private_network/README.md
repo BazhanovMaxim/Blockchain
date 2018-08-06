@@ -33,10 +33,13 @@
 `difficulty` `gasLimit`: чем ниже, тем быстрее добыча будет идти для майнера. `gasLimit`, с другой стороны, необходим для развёртывания контрактов.
 
 <hr>
+
 ## Хранение для Windows публичная сеть:
+
 ```
  %AppData%/Roaming/Ethereum
 ```
+
 ## Хранение для Windows в частной сети происходит там, где создан `genesis.json`
 
 ## Geth commands for start private network and another
